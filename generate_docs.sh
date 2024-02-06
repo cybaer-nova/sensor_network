@@ -46,7 +46,7 @@ mkdocs gh-deploy
 
 echo "Done !!"
 
-rm -r site
+#rm -r site
 
 for (( j=0; j<length; j++ ));
 do
