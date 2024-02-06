@@ -41,7 +41,7 @@ done
 
 cd /$PROJECT
 git remote rm origin
-git remote add origin https://hardtekpt:$token@github.com/hardtekpt/sensor_network.git
+git remote add origin https://cybaer-nova:$token@github.com/cybaer-nova/sensor_network.git
 mkdocs gh-deploy
 
 echo "Done !!"

@@ -17,7 +17,7 @@ Additionally, the following Arduino libraries are required:
 
 After ensuring all the aforementioned requirements are met this repository can be cloned and the contents can be opened in an editor like VScode:
 
-    git clone https://github.com/hardtekpt/sensor_network
+    git clone https://github.com/cybaer-nova/sensor_network
     cd sensor_network
     code .
 
@@ -41,4 +41,4 @@ Regarding the Network Manager, the `wsn_config.yaml` file must be edited to incl
 
 It should be noted that example configurations for each file are included in the repository.
 
-The last thing to do is to attach any sensors and actuators to the nodes and upload the code. For this, see [Example Usage](https://hardtekpt.github.io/sensor_network_docs/pages/example_usage/).
+The last thing to do is to attach any sensors and actuators to the nodes and upload the code. For this, see [Example Usage](https://cybaer-nova.github.io/sensor_network_docs/pages/example_usage/).
