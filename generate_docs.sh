@@ -51,8 +51,8 @@ echo "Done !!"
 for (( j=0; j<length; j++ ));
 do
     cd /$PROJECT/${PACKETS[$j]}
-    rm -r docs
-    rm mkdocs.yml
+    #rm -r docs
+    #rm mkdocs.yml
 done
 
 
